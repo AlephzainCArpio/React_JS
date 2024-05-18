@@ -1,5 +1,5 @@
 # Welcome to [- clear]!
-[-clear] is a group of classments that has been task to complete an Activity.
+[-clear] is a group of classmates that has been task to complete an Activity.
 The Group Members are:
 Alephzain A. Carpio
 Jimmy Tejano
